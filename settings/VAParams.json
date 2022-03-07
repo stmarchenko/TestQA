@@ -122,7 +122,8 @@
 	"simplereport": false,
 	"librarycatalogs": [
 		"C:\\1c-course\\Testing\\vanessa-automation\\features\\Libraries",
-		"C:\\1c-course\\Testing\\TestQA\\prnsc.png\\features\\External"
+		"C:\\1c-course\\Testing\\TestQA\\prnsc.png\\features\\External",
+		"C:\\1c-course\\Testing\\TestQA\\prnsc.png\\Features_IRP\\External"
 	],
 	"ignoretags": [
 		"IgnoreOnCIMainBuild"
