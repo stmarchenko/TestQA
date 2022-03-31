@@ -14,8 +14,9 @@
 Сценарий: _0601 подготовительный (добавление картинок)	
 	Когда экспорт основных данных
 	Когда экспорт настроек картинок
-	//И Я устанавливаю в данную базу расширение "IRP_TestExtension" из каталога "C:\1c-course\Testing\TestQA\prnsc.png\Features_IRP\Additional"
-	и я устанавливаю в базу расширение из моего файла "C:\1c-course\Testing\TestQA\prnsc.png\Features_IRP\Additional\IRP_TestExtension.cfe"
+	И Я устанавливаю в данную базу расширение "IRP_TestExtension" из каталога "C:\1c-course\Testing\TestQA\prnsc.png\Features_IRP\Additional"
+	//И Я устанавливаю в данную базу расширение "ИмяРасширения" из каталога "КаталогРасширения"
+	//и я устанавливаю в базу расширение из моего файла "C:\1c-course\Testing\TestQA\prnsc.png\Features_IRP\Additional\IRP_TestExtension.cfe"
 Сценарий: _0602 добавление картинки
 	//Дано Я открываю навигационную ссылку "e1cib/data/Catalog.Items?ref=b762b13668d0905011eb766bf96b2750"
 	//И я выбираю файл "C:\1c-course\Testing\TestQA\prnsc.png\Features_IRP\Files\ItemPicture1.png"
